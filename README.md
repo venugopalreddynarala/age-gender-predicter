@@ -2,7 +2,6 @@
 Real-Time Age and Gender Detection using OpenCV
 This project detects human faces in real-time from webcam feed and predicts the age group and gender using deep learning models in OpenCV.
 
-<!-- Replace with your actual demo gif if available -->
 
 📌 Features
 Real-time face detection with OpenCV DNN
